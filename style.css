@@ -144,7 +144,7 @@ nav ul a {
   height: 20px;
   border: 1px solid black;
   border-radius: 50%;
-  position: absolute;
+  position: fixed;
   transition-duration: 50ms;
   transition-timing-function: ease-out;
   animation: cursorAnim .9s infinite alternate;
